@@ -13,13 +13,11 @@ b = 13
 result = (a**2 + b**2) % 2
 print(result)
 
-
 a = 56
 b = 13
 c = 100
 result = ( a + b ) / 12 * c % 4 + b
 print(result)
-
 
 player1 = 1.36
 player2 = 57
